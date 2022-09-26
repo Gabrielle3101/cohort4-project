@@ -1008,6 +1008,9 @@ input, textarea {
     .about-stats .progress-bars {
         grid-template-columns: 1fr;
     }
+    .tl-icon {
+        left: -10px;
+     }
     .main-title h2 {
         font-size: 3rem;
     }
