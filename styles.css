@@ -1010,6 +1010,7 @@ input, textarea {
     }
     .tl-icon {
         left: -10px;
+        top: -5px;
      }
     .main-title h2 {
         font-size: 3rem;
