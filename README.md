@@ -1,19 +1,17 @@
 ## Welcome! 👋
 
-To do this challenge, you need a basic understanding of HTML, CSS and Bootstrap.
+This is my final project for hertechtrail cohort 4
 
 ## The challenge
 
-Your challenge is to build on this portolio template and get it looking as you desire.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+The project was to build a portfolio page.
+It should be fully functional and responsive.
 
 ## Your users should be able to:
 
 View the optimal layout for the site depending on their device's screen size
 See hover states for all interactive elements on the page
 Where to find everything
-
-You will find all the required assets in the /images folder. The assets are already optimized.
 
 ## Building your project
 
@@ -30,4 +28,8 @@ As mentioned above, there are a number of ways to host your project for free. We
 4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
    Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
 
+
+## Acknowledgements 
+I am grateful to my coach, Ms. Maggy for her help and support throughout this journey.
+I would also like to thank Hertechtrail for this opportunity and I look forward to becoming a great frontend developer.
 **Have fun building!** 🚀
