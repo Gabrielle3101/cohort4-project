@@ -32,4 +32,6 @@ As mentioned above, there are a number of ways to host your project for free. We
 ## Acknowledgements 
 I am grateful to my coach, Ms. Maggy for her help and support throughout this journey.
 I would also like to thank Hertechtrail for this opportunity and I look forward to becoming a great frontend developer.
-**Have fun building!** 🚀
+
+
+**I had fun building this!** 🚀
